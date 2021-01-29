@@ -1,0 +1,32 @@
+{
+  "name": "firstproduct",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.2",
+    "element-ui": "^2.15.0",
+    "nuxt": "^2.14.12",
+    "vue": "^2.6.12",
+    "vue-axios": "^3.2.2",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/svg": "^0.1.12",
+    "fibers": "^5.0.0",
+    "node-sass": "^5.0.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "^10.1.1"
+  }
+}
